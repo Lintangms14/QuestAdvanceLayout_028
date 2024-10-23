@@ -47,7 +47,7 @@ fun PlayActifty(){
             isinya = "yogyakarta"
         )
         DetailSurat(            judul = "No Telpon",
-            isinya = "08567894"
+            isinya = "0856789498"
         )
         DetailSurat(
             judul = "Keterangan",
