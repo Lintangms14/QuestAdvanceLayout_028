@@ -1,4 +1,4 @@
-package com.example.basicempty.ui.theme
+package com.example.basicempty
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -24,7 +24,6 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.basicempty.R
 
 @Preview(showBackground = true)
 @Composable
@@ -47,7 +46,7 @@ fun PlayActifty(){
             isinya = "yogyakarta"
         )
         DetailSurat(            judul = "No Telpon",
-            isinya = "0856789498"
+            isinya = "08567894989"
         )
         DetailSurat(
             judul = "Keterangan",
