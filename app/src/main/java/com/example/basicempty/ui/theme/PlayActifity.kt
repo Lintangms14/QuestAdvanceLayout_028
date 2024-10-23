@@ -34,7 +34,7 @@ fun PlayActifty(){
         Text(text = "Kepada Yth",
             modifier = Modifier.padding(16.dp)
         )
-        Text(text = "Lintang Merayu Sukma",
+        Text(text = "Lintang",
         modifier = Modifier.padding(start = 16.dp)
         )
         Spacer(modifier = Modifier.size(50.dp))
